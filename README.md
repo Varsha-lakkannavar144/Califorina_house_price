@@ -3,6 +3,10 @@
 An end-to-end Machine Learning web application and regression pipeline designed to predict median district housing values across California based on demographic, structural, and geographical indicators.
 
 ---
+<img width="985" height="600" alt="WhatsApp Image 2026-09-24 at 5 07 21 PM" src="https://github.com/user-attachments/assets/3c30717a-d528-49bb-93e9-27230fea791c" />
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM" src="https://github.com/user-attachments/assets/a716f621-0410-4892-8fe3-b96055c560a0" />
+
+
 
 ## 📌 Project Introduction
 
